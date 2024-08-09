@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\ARG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{448ECE56-DF49-C5E1-BE1E-E98F923F3866}|Assembly-CSharp.csproj|c:\\users\\user\\arg\\assets\\scripts\\player\\playeruimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{448ECE56-DF49-C5E1-BE1E-E98F923F3866}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playeruimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{448ECE56-DF49-C5E1-BE1E-E98F923F3866}|Assembly-CSharp.csproj|C:\\Users\\User\\ARG\\assets\\scripts\\world save manager\\worldsavegamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{448ECE56-DF49-C5E1-BE1E-E98F923F3866}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\world save manager\\worldsavegamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{448ECE56-DF49-C5E1-BE1E-E98F923F3866}|Assembly-CSharp.csproj|C:\\Users\\User\\ARG\\assets\\scripts\\titlescreen\\titlescreenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{448ECE56-DF49-C5E1-BE1E-E98F923F3866}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\titlescreen\\titlescreenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{448ECE56-DF49-C5E1-BE1E-E98F923F3866}|Assembly-CSharp.csproj|C:\\Users\\User\\ARG\\assets\\scripts\\player\\charactermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{448ECE56-DF49-C5E1-BE1E-E98F923F3866}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\charactermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WorldSaveGameManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\ARG\\Assets\\Scripts\\World Save Manager\\WorldSaveGameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\World Save Manager\\WorldSaveGameManager.cs",
+              "ToolTip": "C:\\Users\\User\\ARG\\Assets\\Scripts\\World Save Manager\\WorldSaveGameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\World Save Manager\\WorldSaveGameManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T13:40:39.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TitleScreenManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\ARG\\Assets\\Scripts\\TitleScreen\\TitleScreenManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TitleScreen\\TitleScreenManager.cs",
+              "ToolTip": "C:\\Users\\User\\ARG\\Assets\\Scripts\\TitleScreen\\TitleScreenManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TitleScreen\\TitleScreenManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T13:40:37.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerUIManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\ARG\\Assets\\Scripts\\Player\\PlayerUIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerUIManager.cs",
+              "ToolTip": "C:\\Users\\User\\ARG\\Assets\\Scripts\\Player\\PlayerUIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerUIManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T13:40:35.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CharacterManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\ARG\\Assets\\Scripts\\Player\\CharacterManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\CharacterManager.cs",
+              "ToolTip": "C:\\Users\\User\\ARG\\Assets\\Scripts\\Player\\CharacterManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\CharacterManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T13:40:12.636Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
