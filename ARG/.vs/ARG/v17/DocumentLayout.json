@@ -1,22 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\ARG\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\GitHub\\ARPG-UNITY\\ARG\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{448ECE56-DF49-C5E1-BE1E-E98F923F3866}|Assembly-CSharp.csproj|c:\\users\\user\\arg\\assets\\scripts\\player\\playeruimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{448ECE56-DF49-C5E1-BE1E-E98F923F3866}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playeruimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{448ECE56-DF49-C5E1-BE1E-E98F923F3866}|Assembly-CSharp.csproj|c:\\users\\user\\documents\\github\\arpg-unity\\arg\\assets\\scripts\\menuscren\\titlescreenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{448ECE56-DF49-C5E1-BE1E-E98F923F3866}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menuscren\\titlescreenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{448ECE56-DF49-C5E1-BE1E-E98F923F3866}|Assembly-CSharp.csproj|C:\\Users\\User\\ARG\\assets\\scripts\\world save manager\\worldsavegamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{448ECE56-DF49-C5E1-BE1E-E98F923F3866}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\world save manager\\worldsavegamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{448ECE56-DF49-C5E1-BE1E-E98F923F3866}|Assembly-CSharp.csproj|C:\\Users\\User\\Documents\\GitHub\\ARPG-UNITY\\ARG\\assets\\scripts\\character\\playerui\\playermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{448ECE56-DF49-C5E1-BE1E-E98F923F3866}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\character\\playerui\\playermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{448ECE56-DF49-C5E1-BE1E-E98F923F3866}|Assembly-CSharp.csproj|C:\\Users\\User\\ARG\\assets\\scripts\\titlescreen\\titlescreenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{448ECE56-DF49-C5E1-BE1E-E98F923F3866}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\titlescreen\\titlescreenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{448ECE56-DF49-C5E1-BE1E-E98F923F3866}|Assembly-CSharp.csproj|c:\\users\\user\\documents\\github\\arpg-unity\\arg\\assets\\scripts\\character\\playerui\\playeruimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{448ECE56-DF49-C5E1-BE1E-E98F923F3866}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\character\\playerui\\playeruimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{448ECE56-DF49-C5E1-BE1E-E98F923F3866}|Assembly-CSharp.csproj|C:\\Users\\User\\ARG\\assets\\scripts\\player\\charactermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{448ECE56-DF49-C5E1-BE1E-E98F923F3866}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\charactermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{448ECE56-DF49-C5E1-BE1E-E98F923F3866}|Assembly-CSharp.csproj|c:\\users\\user\\documents\\github\\arpg-unity\\arg\\assets\\scripts\\world  manager\\worldsavegamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{448ECE56-DF49-C5E1-BE1E-E98F923F3866}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\world  manager\\worldsavegamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{448ECE56-DF49-C5E1-BE1E-E98F923F3866}|Assembly-CSharp.csproj|C:\\Users\\User\\Documents\\GitHub\\ARPG-UNITY\\ARG\\assets\\scripts\\character\\charactermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{448ECE56-DF49-C5E1-BE1E-E98F923F3866}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\character\\charactermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{448ECE56-DF49-C5E1-BE1E-E98F923F3866}|Assembly-CSharp.csproj|C:\\Users\\User\\Documents\\GitHub\\ARPG-UNITY\\ARG\\assets\\scripts\\character\\playerui\\playerlocomotionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{448ECE56-DF49-C5E1-BE1E-E98F923F3866}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\character\\playerui\\playerlocomotionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{448ECE56-DF49-C5E1-BE1E-E98F923F3866}|Assembly-CSharp.csproj|C:\\Users\\User\\Documents\\GitHub\\ARPG-UNITY\\ARG\\assets\\scripts\\character\\characterlocomotionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{448ECE56-DF49-C5E1-BE1E-E98F923F3866}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\character\\characterlocomotionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{448ECE56-DF49-C5E1-BE1E-E98F923F3866}|Assembly-CSharp.csproj|c:\\users\\user\\documents\\github\\arpg-unity\\arg\\assets\\scripts\\character\\playerui\\playerinputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{448ECE56-DF49-C5E1-BE1E-E98F923F3866}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\character\\playerui\\playerinputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +42,111 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WorldSaveGameManager.cs",
-              "DocumentMoniker": "C:\\Users\\User\\ARG\\Assets\\Scripts\\World Save Manager\\WorldSaveGameManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\World Save Manager\\WorldSaveGameManager.cs",
-              "ToolTip": "C:\\Users\\User\\ARG\\Assets\\Scripts\\World Save Manager\\WorldSaveGameManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\World Save Manager\\WorldSaveGameManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T13:40:39.866Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TitleScreenManager.cs",
-              "DocumentMoniker": "C:\\Users\\User\\ARG\\Assets\\Scripts\\TitleScreen\\TitleScreenManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\TitleScreen\\TitleScreenManager.cs",
-              "ToolTip": "C:\\Users\\User\\ARG\\Assets\\Scripts\\TitleScreen\\TitleScreenManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\TitleScreen\\TitleScreenManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T13:40:37.917Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PlayerUIManager.cs",
-              "DocumentMoniker": "C:\\Users\\User\\ARG\\Assets\\Scripts\\Player\\PlayerUIManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerUIManager.cs",
-              "ToolTip": "C:\\Users\\User\\ARG\\Assets\\Scripts\\Player\\PlayerUIManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerUIManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAqAAAA",
+              "Title": "TitleScreenManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\ARPG-UNITY\\ARG\\Assets\\Scripts\\MenuScren\\TitleScreenManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MenuScren\\TitleScreenManager.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\ARPG-UNITY\\ARG\\Assets\\Scripts\\MenuScren\\TitleScreenManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MenuScren\\TitleScreenManager.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAuwBEAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T13:40:35.654Z",
+              "WhenOpened": "2024-08-09T16:07:53.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CharacterManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\ARPG-UNITY\\ARG\\Assets\\Scripts\\Character\\CharacterManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Character\\CharacterManager.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\ARPG-UNITY\\ARG\\Assets\\Scripts\\Character\\CharacterManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Character\\CharacterManager.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAuwAkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T15:52:54.638Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "CharacterManager.cs",
-              "DocumentMoniker": "C:\\Users\\User\\ARG\\Assets\\Scripts\\Player\\CharacterManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\CharacterManager.cs",
-              "ToolTip": "C:\\Users\\User\\ARG\\Assets\\Scripts\\Player\\CharacterManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Player\\CharacterManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "WorldSaveGameManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\ARPG-UNITY\\ARG\\Assets\\Scripts\\World  Manager\\WorldSaveGameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\World  Manager\\WorldSaveGameManager.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\ARPG-UNITY\\ARG\\Assets\\Scripts\\World  Manager\\WorldSaveGameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\World  Manager\\WorldSaveGameManager.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAwC4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T13:40:12.636Z"
+              "WhenOpened": "2024-08-09T15:27:52.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerUIManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\ARPG-UNITY\\ARG\\Assets\\Scripts\\Character\\PlayerUI\\PlayerUIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Character\\PlayerUI\\PlayerUIManager.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\ARPG-UNITY\\ARG\\Assets\\Scripts\\Character\\PlayerUI\\PlayerUIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Character\\PlayerUI\\PlayerUIManager.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAzwCMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T16:07:00.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\ARPG-UNITY\\ARG\\Assets\\Scripts\\Character\\PlayerUI\\PlayerManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Character\\PlayerUI\\PlayerManager.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\ARPG-UNITY\\ARG\\Assets\\Scripts\\Character\\PlayerUI\\PlayerManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Character\\PlayerUI\\PlayerManager.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAYwBAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T15:47:56.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerLocomotionManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\ARPG-UNITY\\ARG\\Assets\\Scripts\\Character\\PlayerUI\\PlayerLocomotionManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Character\\PlayerUI\\PlayerLocomotionManager.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\ARPG-UNITY\\ARG\\Assets\\Scripts\\Character\\PlayerUI\\PlayerLocomotionManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Character\\PlayerUI\\PlayerLocomotionManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T15:50:49.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CharacterLocomotionManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\ARPG-UNITY\\ARG\\Assets\\Scripts\\Character\\CharacterLocomotionManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Character\\CharacterLocomotionManager.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\ARPG-UNITY\\ARG\\Assets\\Scripts\\Character\\CharacterLocomotionManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Character\\CharacterLocomotionManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T15:52:25.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerInputManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\ARPG-UNITY\\ARG\\Assets\\Scripts\\Character\\PlayerUI\\PlayerInputManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Character\\PlayerUI\\PlayerInputManager.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\ARPG-UNITY\\ARG\\Assets\\Scripts\\Character\\PlayerUI\\PlayerInputManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Character\\PlayerUI\\PlayerInputManager.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAiwE0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T16:00:28.586Z",
+              "EditorCaption": ""
             }
           ]
         }

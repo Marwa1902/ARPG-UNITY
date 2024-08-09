@@ -1,0 +1,79 @@
+1. PlayerInputManager (Player Input Handling)
+	Purpose: Manages player input using Unity's new Input System.
+
+	Connection:
+		This script uses the PlayerControls class (likely a generated class from Unity's Input System) to manage player inputs like movement.
+		It interacts with scenes through SceneManager to enable or disable player controls based on the current scene (e.g., disable controls in the main menu).
+		Singleton pattern ensures only one instance of this script exists.
+
+	Key Functions:
+		Awake: Sets up the singleton instance.
+		OnSceneChange: Enables or disables input depending on the scene.
+		OnEnable: Subscribes to input events.
+		OnDestroy: Unsubscribes from the scene change event.
+
+2. CharacterManager (Base Character Class)
+	Purpose: A base class for managing characters, with basic functionality like ensuring the character persists across scenes.
+	
+	Connection:
+		This script serves as a base class, which other character-related scripts (like PlayerManager) inherit from.
+
+	Key Functions:
+		Awake: Ensures the object persists across scene changes.
+
+3. CharacterLocomotionManager (Character Movement Management)
+	Purpose: This class seems to be intended to manage character locomotion, although it is currently empty.
+
+	Connection:
+
+
+4. PlayerManager (Player Character Management)
+	Purpose: Extends CharacterManager to handle player-specific actions, particularly movement.
+
+	Connection:
+		Inherits from CharacterManager, adding player-specific behavior.
+		Utilizes PlayerLocomotionManager to handle player movement.
+
+	Key Functions:
+		Awake: Initializes player-specific components.
+		Update: Calls HandleAllMovement() on PlayerLocomotionManager to manage player movement each frame.
+
+5. WorldSaveGameManager (Game State Management)
+	Purpose: Manages loading game scenes and saving/loading game states.
+
+	Connection:
+		Singleton pattern to ensure only one instance exists.
+	Handles loading the game scene (worldSceneIndex).
+
+	Key Functions:
+		LoadNewGame: Loads the game scene asynchronously.
+		GetWorldSceneIndex: Returns the index of the game scene.
+
+6. PlayerUIManager (Player UI and Network Management)
+	Purpose: Manages UI-related actions and network-related settings.
+
+	Connection:
+		Singleton pattern to ensure only one instance exists.
+		Manages whether the game starts as a client or host in a networked environment.
+
+	Key Functions:
+		Update: Handles switching from host to client mode based on startGameAsClient.
+
+7. TitleScreenManager (Title Screen and Network Management)
+	Purpose: Handles actions from the title screen, like starting the game or initiating the network as a host.
+	
+	Connection:
+		Uses WorldSaveGameManager to load the game scene.
+	Manages starting the network as a host using NetworkManager.
+
+	Key Functions:
+		StartNetworkAsHost: Starts the network as a host.
+		StartNewGame: Initiates loading of the game scene.
+
+
+
+Singleton Pattern: 
+	scripts ( PlayerInputManager, WorldSaveGameManager, PlayerUIManager) use the singleton pattern to ensure there's only one instance of each throughout the game.
+	Scene Management: Scripts - PlayerInputManager and WorldSaveGameManager interact with Unity's SceneManager to manage game states and transitions between scenes.
+	Player Management: PlayerManager and PlayerInputManager work together to handle player input and movement, with PlayerManager using 	PlayerLocomotionManager for movement logic.
+	Networking: TitleScreenManager and PlayerUIManager manage network-related tasks, ensuring the game can switch between hosting and client modes.
